@@ -1,4 +1,3 @@
-# ========== DOSYA: .github/profile/README.md ==========
 # 🦅 VQ-Capital (Vector Quantitative Capital)
 
 **Institutional Grade Event-Driven Algorithmic Trading Infrastructure**
