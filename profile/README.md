@@ -13,4 +13,5 @@ VQ-Capital, mikro saniye hassasiyetinde veri işleyen, sıfır gecikmeli (zero-l
 ## 🏗️ Mimari Topoloji
 Sistemimiz, `sentinel-*` önekiyle adlandırılmış, kesin sınırlarla ayrılmış mikroservislerden oluşur. Tüm sistemin tek doğruluk kaynağı (Source of Truth) `sentinel-spec` reposudur.
 
-![sentinel-terminal](image.png)
+![HFT Data Visualization & Monitoring - Desktop](desktop.png)
+![HFT Data Visualization & Monitoring - Mobile](mobile.png)
